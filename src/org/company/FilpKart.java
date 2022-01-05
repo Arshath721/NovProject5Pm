@@ -6,11 +6,10 @@ public class FilpKart {
 		System.out.println("emp a done his code");
 
 	}
-	private void empB() {
-		System.out.println("empB done my code");
-
-	}
 	
+	public static void main(String[] args) {
+		FilpKart f=new FilpKart();
+	}
 	
 
 	
